@@ -1,0 +1,57 @@
+Job Title: Python Developer Intern
+
+Company: TechNova Solutions
+
+Location: Mumbai, India
+
+Job Type: Internship
+
+Job Description:
+We are looking for a motivated Python Developer Intern to join our development team. The candidate will assist in building Python applications, developing REST APIs, debugging code, and working with databases.
+
+Required Skills:
+- Basic knowledge of Python programming.
+- Familiarity with Flask or Django.
+- Understanding of SQL and database management.
+- Knowledge of REST APIs.
+- Familiarity with Git and GitHub.
+- Good problem-solving and communication skills.
+
+Responsibilities:
+- Develop and maintain Python applications.
+- Assist in creating and testing REST APIs.
+- Identify and fix software bugs.
+- Write clean and readable code.
+- Work with team members on software development tasks.
+
+Eligibility:
+Currently pursuing a degree in Information Technology, Computer Science, or a related field. Academic projects are an advantage.
+
+Experience: Fresher / Student
+
+
+
+Name: Anjali Ghosalkar
+
+Education: Information Technology Student
+
+Technical Skills:
+- Programming Language: Python					
+- Database: SQL
+- Framework: Flask
+- Tools: Git and GitHub
+- Concepts: REST APIs and software development fundamentals
+
+Academic Experience:
+- Worked on academic software development projects.
+- Practiced Python programming and SQL database operations.
+- Familiar with building basic web applications using Flask.
+- Interested in backend development and AI-based applications.
+
+Certifications:
+- Fundamentals of DevOps on AWS – Simplilearn
+- Introduction to Generative AI Studio – Simplilearn
+- CCNA: Introduction to Networks – Cisco Networking Academy
+
+Career Objective:
+To secure a Python Developer Internship where I can apply my technical knowledge, contribute to software development projects, and gain practical industry experience.
